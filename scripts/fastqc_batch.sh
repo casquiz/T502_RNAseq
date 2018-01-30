@@ -10,7 +10,7 @@ module load fastqc
 
 fileDir=/N/dc2/scratch/rtraborn/T502_fastqs/PP_RNAseq
 ####### Before running the script, please enter path to desired output directory, below ####
-fqDir=/Users/alexandercampbell/desktop
+fqDir=/N/u/campalex/Carbonate/T502_RNAseqalex/
 
 cd $fqDir
 
