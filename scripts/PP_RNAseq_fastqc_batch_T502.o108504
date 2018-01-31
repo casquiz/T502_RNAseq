@@ -1,0 +1,19 @@
+Starting job
+Running fastqc on the RNA-seq files
+Starting fastqc for GSF1659-EC-7_S17_R1_001.fastq.gz
+Starting fastqc for GSF1659-EC-7_S17_R2_001.fastq.gz
+Starting fastqc for GSF1659-ECL-1_S15_R1_001.fastq.gz
+Starting fastqc for GSF1659-ECL-1_S15_R2_001.fastq.gz
+Starting fastqc for GSF1659-ECL-4_S16_R1_001.fastq.gz
+Starting fastqc for GSF1659-ECL-4_S16_R2_001.fastq.gz
+Starting fastqc for GSF1659-KP-49_S9_R2_001.fastq.gz
+Starting fastqc for GSF1659-KP-80_S10_R1_001.fastq.gz
+Starting fastqc for GSF1659-KP-80_S10_R2_001.fastq.gz
+Starting fastqc for GSF1659-KP-83_S11_R1_001.fastq.gz
+Starting fastqc for GSF1659-KP-83_S11_R2_001.fastq.gz
+Starting fastqc for GSF1659-KP-84_S12_R1_001.fastq.gz
+Starting fastqc for GSF1659-KP-84_S12_R2_001.fastq.gz
+Starting fastqc for GSF1659-KP-85_S13_R1_001.fastq.gz
+Starting fastqc for GSF1659-KP-85_S13_R2_001.fastq.gz
+Starting fastqc for PP_RNAseqGSF1659-KP-49_S9_R1_001.fastq.gz
+Fastqc job is complete
